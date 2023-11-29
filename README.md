@@ -1,6 +1,16 @@
 NG-Scope
 ========
 
+## Installation
+
+Follow the link to install everything [https://github.com/YaxiongXiePrinceton/NG-Scope/wiki/2.-Build-Instructions](https://github.com/YaxiongXiePrinceton/NG-Scope/wiki/2.-Build-Instructions).
+
+
+## Run
+
+Follow the link to run the tool [https://github.com/YaxiongXiePrinceton/NG-Scope/wiki/3.-Execution-Instructions](https://github.com/YaxiongXiePrinceton/NG-Scope/wiki/3.-Execution-Instructions).
+
+
 NG-Scope is a versatile system designed to support the efficient decoding of control channels from multiple base stations. From a block-level processing perspective, data flows through  NG-Scope as follows:
  
 1. 	Signal Reception and Synchronization:
